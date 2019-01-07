@@ -1,0 +1,372 @@
+Spain_FW # config  wireless-controller wtp 
+ 
+ 
+ 
+Spain_FW (wtp) # show 
+ 
+config wireless-controller wtp
+ 
+    edit "PU223ETF18002022"
+ 
+        set admin enable
+ 
+        set name "AP17 MACO99B"
+ 
+        set wtp-profile "FAPU223EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007993"
+ 
+        set admin enable
+ 
+        set name "AP08 "
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007816"
+ 
+        set admin enable
+ 
+        set name "AP12 "
+ 
+                  set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007698"
+ 
+        set admin enable
+ 
+        set name "AP13"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007981"
+ 
+        set admin enable
+ 
+        set name "AP16 B"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+                  config radio-2
+ 
+        end
+ 
+    next
+
+    POR AKI!!!!
+    
+ 
+    edit "PU221ETF18007842"
+ 
+        set admin enable
+ 
+        set name "AP05 "
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007988"
+ 
+        set admin enable
+ 
+        set name "AP11 MACO98B"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007990"
+ 
+                  set admin enable
+ 
+        set name "AP10 MAC3"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18008006"
+ 
+        set admin enable
+ 
+        set name "AP03 "
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007972"
+ 
+        set admin enable
+ 
+        set name "AP07 "
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+                  config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007962"
+ 
+        set admin enable
+ 
+        set name "AP15 L-A"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007844"
+ 
+        set admin enable
+ 
+        set name "AP06 MACAO80B"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+              next
+ 
+    edit "PU221ETF18007673"
+ 
+        set admin enable
+ 
+        set name "AP14 MACAO98/99"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007920"
+ 
+        set admin enable
+ 
+        set name "AP04 SOLIMAR"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007973"
+ 
+        set admin enable
+ 
+        set name "AP09 MACAO1"
+ 
+                  set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU223ETF18002026"
+ 
+        set admin enable
+ 
+        set name "AP18 - MACAO99A"
+ 
+        set wtp-profile "FAPU223EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007853"
+ 
+        set admin enable
+ 
+        set name "AP01 AZUL"
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+                  config radio-2
+ 
+        end
+ 
+    next
+ 
+    edit "PU221ETF18007927"
+ 
+        set admin enable
+ 
+        set name "AP02 "
+ 
+        set wtp-profile "FAPU221EV"
+ 
+        set wtp-mode remote
+ 
+        config radio-1
+ 
+        end
+ 
+        config radio-2
+ 
+        end
+ 
+    next
+ 
+end
